@@ -29,8 +29,16 @@ This project allows users to register, log in, create notes, and manage sessions
 
 
 ---
-![uniquenotesdemo](uniquenotesdemo.gif)
+Interface upon launching: <br>
+![demo](https://github.com/user-attachments/assets/1ab4edf0-7b4c-43e4-b2c4-6e177d2c9ea1)
 
+Demo from outside: <br>
+![outsidedemo](https://github.com/user-attachments/assets/f571b5f2-bd29-4d58-9b65-a786b1bbbb97)
+
+Demo from inside: <br>
+![insidedemo](https://github.com/user-attachments/assets/272ec36b-7bdf-4274-95fd-0922ac2b24dd)
+ 
+---
 ## 💻 Getting Started
 
 ### Prerequisites
