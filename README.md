@@ -73,7 +73,7 @@ Demo from inside: <br>
 
 ## 🙌 Author
 
-Made with ❤️ by Raunak Kushwaha 
+Made with ❤️ by Raunak Kushwaha <br>
 Feel free to contribute, fork, and ⭐ this repo!
 
 ---
