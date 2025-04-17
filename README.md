@@ -29,6 +29,7 @@ This project allows users to register, log in, create notes, and manage sessions
 
 
 ---
+![uniquenotesdemo](uniquenotesdemo.gif)
 
 ## 💻 Getting Started
 
