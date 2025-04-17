@@ -1,3 +1,32 @@
+# 📒 UniqueNotes
+
+A simple and elegant **note-making portal** built using **Java Servlets**, **JSP**, and **MySQL**.  
+This project allows users to register, log in, create notes, and manage sessions in a lightweight web interface.
+
+---
+
+## 🚀 Features
+
+- ✅ User Registration & Login (Session-based authentication)
+- ✅ Secure Logout
+- ✅ Create and View Notes
+- ✅ Java Servlet + JSP powered backend
+- ✅ Clean front-end with folder structure for assets, CSS, JS
+- ✅ Gson integration for JSON handling
+
+---
+
+## 🛠️ Tech Stack
+
+| Layer        | Technology            |
+|--------------|------------------------|
+| Backend      | Java Servlets, JSP     |
+| Frontend     | HTML, CSS, JS          |
+| Database     | MySQL                  |
+| Library Used | Gson (for JSON parsing)|
+| Build Tool   | Manual / IDE-based     |
+| Server       | Apache Tomcat          |
+
 
 ---
 
